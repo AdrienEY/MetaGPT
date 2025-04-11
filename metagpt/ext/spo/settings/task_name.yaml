@@ -1,0 +1,18 @@
+prompt: |
+  Please solve the following problem.
+
+requirements: |
+  ...
+
+count: None
+
+qa:
+  - question: |
+      ...
+    answer: |
+      ...
+
+  - question: |
+      ...
+    answer: |
+      ...
